@@ -1,4 +1,5 @@
 ﻿---
+share: true
 dg-publish: true
 Order: 90
 xref: choco-command-optimize
