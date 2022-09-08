@@ -1,4 +1,5 @@
 ﻿---
+share: true
 dg-publish: true
 Order: 130
 xref: choco-command-setapikey
