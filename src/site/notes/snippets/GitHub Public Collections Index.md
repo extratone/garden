@@ -1,0 +1,97 @@
+---
+{"dg-publish":true,"permalink":"/snippets/git-hub-public-collections-index/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+# GitHub Public Collections Index
+Updated `09012022-091817`
+
+- [Source](https://github.com/collections)
+- [Drafts](drafts://open?uuid=CAABBB06-186C-437D-BC30-65844BDBEC2B)
+- [WTF](https://davidblue.wtf/drafts/CAABBB06-186C-437D-BC30-65844BDBEC2B.html)
+- Simplenote Local
+- Simplenote Publish
+- [Things](things:///show?id=92AMJfVCbbWhijXGdhsGMi)
+
+An alphabetized list of all collections present at `https://github.com/collections` as of `09012022-091743`.
+
+---
+
+- [Capture The Flag (CTF) and Cyber Security Resources](https://github.com/collections/ctf-cybersec-resources)
+- [Clean code linters](https://github.com/collections/clean-code-linters)
+- [Code Quality Checker Tools For PHP Projects](https://github.com/collections/code-quality-in-php)
+- [CSS Frameworks](https://github.com/collections/css-frameworks)
+- [Demo sources](https://github.com/collections/demo-sources)
+- [Design essentials](https://github.com/collections/design-essentials)
+- [DevOps tools](https://github.com/collections/devops-tools)
+- [Fantasy Consoles](https://github.com/collections/fantasy-consoles)
+- [Front-end JavaScript frameworks](https://github.com/collections/front-end-javascript-frameworks)
+- [Game Engines](https://github.com/collections/game-engines)
+- [Getting started with machine learning](https://github.com/collections/machine-learning)
+- [GitHub Browser Extensions](https://github.com/collections/github-browser-extensions)
+- [GitHub Pages examples](https://github.com/collections/github-pages-examples)
+- [Government apps](https://github.com/collections/government)
+- [Hacking Minecraft](https://github.com/collections/hacking-minecraft)
+- [How to choose (and contribute to) your first open source project](https://github.com/collections/choosing-projects)
+- [Internet Censorship Circumventions](https://github.com/collections/internet-censorship-circumventions)
+- [JavaScript Game Engines](https://github.com/collections/javascript-game-engines)
+- [JavaScript State Management Tools](https://github.com/collections/javascript-state-management)
+- [Keeping user data safe](https://github.com/collections/protect-user-data)
+- [Learn to Code](https://github.com/collections/learn-to-code)
+- [Load testing](https://github.com/collections/load-testing)
+- [Made in Africa](https://github.com/collections/made-in-africa)
+- [Made in Argentina](https://github.com/collections/made-in-argentina)
+- [Made in Bangladesh](https://github.com/collections/made-in-bangladesh)
+- [Made in Brazil](https://github.com/collections/made-in-brazil)
+- [Made in China](https://github.com/collections/made-in-china)
+- [Made in Cuba](https://github.com/collections/made-in-cuba)
+- [Made in Denmark](https://github.com/collections/made-in-denmark)
+- [Made in Egypt](https://github.com/collections/made-in-egypt)
+- [Made in France](https://github.com/collections/made-in-france)
+- [Made in India](https://github.com/collections/made-in-india)
+- [Made in Indonesia](https://github.com/collections/made-in-indonesia)
+- [Made in Iran](https://github.com/collections/made-in-iran)
+- [Made in Israel](https://github.com/collections/made-in-israel)
+- [Made in Italy](https://github.com/collections/made-in-italy)
+- [Made in Kazakhstan](https://github.com/collections/made-in-kazakhstan)
+- [Made in Korea](https://github.com/collections/made-in-korea)
+- [Made in Mauritius](https://github.com/collections/made-in-mauritius)
+- [Made in Poland](https://github.com/collections/made-in-poland)
+- [Made In Singapore](https://github.com/collections/made-in-singapore)
+- [Made in Spain](https://github.com/collections/made-in-spain)
+- [Made in Turkey](https://github.com/collections/made-in-turkey)
+- [Made in Ukraine](https://github.com/collections/made-in-ukraine)
+- [Made in Vietnam](https://github.com/collections/made-in-vietnam)
+- [Material-UI Projects Using Atomic Design](https://github.com/collections/material-ui-atomic-design)
+- [Model Zoos of machine and deep learning technologies](https://github.com/collections/ai-model-zoos)
+- [Music](https://github.com/collections/music)
+- [Net neutrality](https://github.com/collections/net-neutrality)
+- [Open data](https://github.com/collections/open-data)
+- [Open journalism](https://github.com/collections/open-journalism)
+- [Open source MLOps](https://github.com/collections/open-source-mlops)
+- [Open source organizations](https://github.com/collections/open-source-organizations)
+- [PHP Frameworks](https://github.com/collections/php-frameworks)
+- [Pixel Art Tools](https://github.com/collections/pixel-art-tools)
+- [Policies](https://github.com/collections/policies)
+- [Probot apps](https://github.com/collections/probot-apps)
+- [Programming languages](https://github.com/collections/programming-languages)
+- [Projects that power GitHub](https://github.com/collections/projects-that-power-github)
+- [Release Radar · December 2018](https://github.com/collections/release-radar-2018-12)
+- [Risc-V Cores Made in Brazil](https://github.com/collections/riscv-brazil)
+- [Risc-V Cores](https://github.com/collections/riscv-cores)
+- [Ruby Frameworks](https://github.com/collections/ruby-frameworks)
+- [Social Impact](https://github.com/collections/social-impact)
+- [Software Defined Radio](https://github.com/collections/software-defined-radio)
+- [Software development tools](https://github.com/collections/software-development-tools)
+- [Software in science](https://github.com/collections/software-in-science)
+- [Software productivity tools](https://github.com/collections/productivity-tools)
+- [Static Site Generators](https://github.com/collections/static-site-generators)
+- [Teaching materials for computational social science](https://github.com/collections/teaching-computational-social-science)
+- [Text editors](https://github.com/collections/text-editors)
+- [Tools for Open Source](https://github.com/collections/tools-for-open-source)
+- [Useful cheatsheets](https://github.com/collections/cheatsheets)
+- [Web accessibility](https://github.com/collections/web-accessibility)
+- [Web games](https://github.com/collections/web-games)
+
+Tags:
+  aggregation, curation, dev, documentation, git, index, reference
+  simplenote, snippets
