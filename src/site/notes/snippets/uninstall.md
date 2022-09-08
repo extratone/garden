@@ -1,4 +1,4 @@
----
+﻿---
 dg-publish: true
 Order: 190
 xref: choco-command-uninstall
