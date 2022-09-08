@@ -1,4 +1,4 @@
----
+﻿---
 dg-publish: true
 Order: 100
 xref: choco-command-outdated
