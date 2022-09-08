@@ -1,4 +1,5 @@
 ﻿---
+share: true
 dg-publish: true
 Order: 110
 xref: choco-command-pin
