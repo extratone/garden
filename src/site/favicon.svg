@@ -1,24 +1,20 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <rect x="37.0753" y="36.0532" width="26.8836" height="18.1139" fill="#FFFFFF"/>
-    <polygon fill="#EA5A47" stroke="#EA5A47" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="50.2353,23.2 38.1,36 63.5,36"/>
-    <path fill="#EA5A47" d="M47.3,26l-6.4,6.0595v-8.5733c0-0.9313,0.7549-1.4162,1.6862-1.4162h3.0276 c0.9313,0,1.6862,0.4849,1.6862,1.4162C47.3,23.4862,47.3,26,47.3,26z"/>
-    <rect x="43" y="42" width="6" height="12" fill="#A57939"/>
-    <rect x="54" y="42" width="6" height="5" fill="#92D3F5"/>
-    <path fill="#B1CC33" d="M41.0059,28.3393c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662 c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043 C7.9656,28.6665,6,30.8102,6,33.3136c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207 c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,27 50.2353,23 64,35.0976 64,54 38,54 38,41.5482"/>
-    <rect x="43" y="42" width="6" height="12" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="54" y="42" width="6" height="5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="43.5,23 46.5,23 46.5,26"/>
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M31.245,39.3396"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22.5,54 22.5,46.8269 17.5,42"/>
-    <line x1="23.0408" x2="25.885" y1="46.7265" y2="43.7657" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M41.0059,28.3393 c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554 c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043C7.9656,28.6665,6,30.8102,6,33.3136 c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385 c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
-    <line x1="63.5" x2="42.5" y1="36" y2="36" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="TextBounds">
+<rect height="1194.36" width="1223.21" x="-99.6074" y="-85.1797"/>
+</clipPath>
+<linearGradient gradientTransform="matrix(1.49451 0 0 1.49451 -1586.65 -780.055)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="1350.98" x2="1990.39" y1="778.12" y2="778.12">
+<stop offset="0.117596" stop-color="#0013bf"/>
+<stop offset="0.858617" stop-color="#c63c7e"/>
+</linearGradient>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="1024" width="1024" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
+<path clip-path="url(#TextBounds)" d="M136.268 975.855L887.732 975.855C915.402 975.855 939.327 969.833 959.51 957.789C979.692 945.745 995.236 929.55 1006.14 909.205C1017.05 888.86 1022.5 866.155 1022.5 841.09C1022.5 830.022 1020.95 818.792 1017.86 807.398C1014.77 796.005 1010.29 785.1 1004.43 774.684L627.967 118.922C615.271 96.4609 598.507 79.4525 577.674 67.8965C556.84 56.3405 535.031 50.5625 512.244 50.5625C489.458 50.5625 467.566 56.3405 446.57 67.8965C425.574 79.4525 408.729 96.4609 396.033 118.922L19.5684 775.172C7.52409 796.005 1.50195 817.978 1.50195 841.09C1.50195 866.155 6.95443 888.86 17.8594 909.205C28.7643 929.55 44.3079 945.745 64.4902 957.789C84.6725 969.833 108.598 975.855 136.268 975.855ZM136.756 899.195C119.829 899.195 106.238 893.255 95.9844 881.373C85.7305 869.492 80.6035 856.064 80.6035 841.09C80.6035 836.533 81.0918 831.731 82.0684 826.686C83.0449 821.64 84.6725 816.676 86.9512 811.793L462.928 156.031C468.462 146.591 475.623 139.674 484.412 135.279C493.201 130.885 502.479 128.688 512.244 128.688C521.684 128.688 530.717 130.885 539.344 135.279C547.97 139.674 555.05 146.591 560.584 156.031L936.072 812.281C941.281 821.396 943.885 830.999 943.885 841.09C943.885 856.064 938.595 869.492 928.016 881.373C917.436 893.255 903.683 899.195 886.756 899.195L136.756 899.195ZM512.244 646.266C536.658 646.266 549.028 633.408 549.354 607.691L556.678 349.879C557.003 337.509 552.853 327.174 544.227 318.873C535.6 310.572 524.777 306.422 511.756 306.422C498.41 306.422 487.586 310.491 479.285 318.629C470.984 326.767 466.997 337.021 467.322 349.391L473.67 607.691C474.321 633.408 487.179 646.266 512.244 646.266ZM512.244 804.957C526.242 804.957 538.53 800.074 549.109 790.309C559.689 780.543 564.979 768.499 564.979 754.176C564.979 739.853 559.77 727.809 549.354 718.043C538.937 708.277 526.567 703.395 512.244 703.395C497.921 703.395 485.551 708.359 475.135 718.287C464.718 728.215 459.51 740.178 459.51 754.176C459.51 768.173 464.718 780.136 475.135 790.064C485.551 799.993 497.921 804.957 512.244 804.957Z" fill="url(#LinearGradient)" opacity="1" stroke="#11055c" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.09191"/>
+</g>
 </svg>
