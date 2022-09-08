@@ -1,4 +1,4 @@
----
+﻿---
 dg-publish: true
 Order: 10
 xref: choco-command-config
