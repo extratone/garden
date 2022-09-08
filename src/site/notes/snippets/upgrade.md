@@ -1,4 +1,5 @@
 ﻿---
+share: true
 dg-publish: true
 Order: 220
 xref: choco-command-upgrade
