@@ -1,4 +1,5 @@
 ﻿---
+share: true
 dg-publish: true
 Order: 200
 xref: choco-command-unpackself
