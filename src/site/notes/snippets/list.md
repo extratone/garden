@@ -1,4 +1,5 @@
 ﻿---
+share: true
 dg-publish: true
 Order: 80
 xref: choco-command-list
