@@ -1,4 +1,5 @@
 ﻿---
+share: true
 dg-publish: true
 Order: 20
 xref: choco-command-download
