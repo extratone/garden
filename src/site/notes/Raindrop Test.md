@@ -84,6 +84,6 @@ search: created:{{DATE:yyyy-MM-DD}}
 ```raindrop
 collection: -1
 format: table
-- [ ] search: #telegram
+search: obsidian
 sort: title
 ```
