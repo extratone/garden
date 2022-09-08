@@ -1,4 +1,5 @@
 ﻿---
+share: true
 dg-publish: true
 Order: 70
 xref: choco-command-install
