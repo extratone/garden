@@ -1,0 +1,56 @@
+---
+{"dg-publish":true,"permalink":"/snippets/a-shell-config-help/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+# a-Shell Config Help
+Updated `08182022-235233`
+
+- [Drafts](drafts://open?uuid=CAABBB06-186C-437D-BC30-65844BDBEC2B)
+- [WTF](https://davidblue.wtf/drafts/CAABBB06-186C-437D-BC30-65844BDBEC2B.html)
+- Simplenote Local
+- Simplenote Publish
+- Things
+
+---
+
+## Social
+
+- [Twitter](https://twitter.com/NeoYokel/status/1560489530607763457)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">finally got around to doing something I&#39;ve been mumbling about for literally years now: the most basic level of appearance configuration for <a href="https://twitter.com/a_Shell_iOS?ref_src=twsrc%5Etfw">@a_shell_ios</a> lol. `config -s 19 -b #191919 -f <a href="https://twitter.com/hashtag/ff6700?src=hash&amp;ref_src=twsrc%5Etfw">#ff6700</a> -c <a href="https://twitter.com/hashtag/eeeeee?src=hash&amp;ref_src=twsrc%5Etfw">#eeeeee</a> -p` <a href="https://t.co/ou7iXmEw9M">pic.twitter.com/ou7iXmEw9M</a></p>&mdash; ⓓⓐⓥⓘⓓ ⓑⓛⓤⓔ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1560489530607763457?ref_src=twsrc%5Etfw">August 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+finally got around to doing something I've been mumbling about for literally years now: the most basic level of appearance configuration for @a_shell_ios lol. `config -s 19 -b #191919 -f #ff6700 -c #eeeeee -p`
+
+---
+
+usage: `config [-s font size][-n font name][-b background color][-f foreground color][-c cursor color][-g][-p][-d][-r]`
+
+For all parameters: "default" to get the default value currently stored, "factory" to get a-Shell factory defaults (Menlo, 13.0 pts, colors from system).
+
+Colors can be defined by names, RGB triplets "red green blue" or HexStrings "#00FF00"
+
+
+```
+-s | --size: set font size
+-n | --name: set font name. Nothing or "picker" to get the system font picker.
+-b | --background: set background color
+-f | --foreground: set foreground color
+-c | --cursor: set cursor and highlight color
+-g | --global: extend settings to all windows currently open
+-p | --permanent: store settings as default values
+-d | --default: reset all settings to default values
+-r | --reset: reset all settings to factory default
+--show: show current settings
+```
+
+
+Sample uses:
+
+`config -p`: make settings for current window the default for future windows.
+
+`config -dgp`: revert all open and future windows to stored default.
+
+`config -b 0 0 0 -f #00ff00`: get a green-on-black VT100 look.
+
+Tags:
+  a-shell, cli, documentation, i, reference, simplenote, snippets
