@@ -1,4 +1,4 @@
----
+﻿---
 dg-publish: true
 Order: 120
 xref: choco-command-search
