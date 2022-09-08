@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/snippets/ytdlpchannellist/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+ytdlpchannellist
+
+yt-dlp -j --flat-playlist <youtube-channel-link> | jq -r '.id' | sed 's_^_https://youtu.be/_' > links.txt
+
+yt-dlp -j --flat-playlist https://youtube.com/c/jasoncammisaOfficial | jq -r '.id' | sed 's_^_https://youtu.be/_' > cammisa.txt
+
+Tags:
+  snippets
