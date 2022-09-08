@@ -1,0 +1,89 @@
+---
+{"dg-publish":true,"permalink":"/snippets/hypothesis-api-fetch-annotation-by-id/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+# Hypothesis API-Fetch Annotation by ID
+
+`curl --location --request GET 'https://api.hypothes.is/api/annotations/{id}'`
+
+## Example
+
+`curl --location --request GET 'https://api.hypothes.is/api/annotations/KbElxOfxEeytN0NZsJelQA'`
+
+### Output
+
+```json
+{
+  "id" : "KbElxOfxEeytN0NZsJelQA",
+  "user_info" : {
+    "display_name" : "David Blue"
+  },
+  "updated" : "2022-06-09T12:41:16.787484+00:00",
+  "uri" : "https:\/\/developer.apple.com\/design\/human-interface-guidelines\/inputs\/keyboards\/",
+  "permissions" : {
+    "admin" : [
+      "acct:DavidBlue@hypothes.is"
+    ],
+    "read" : [
+      "group:__world__"
+    ],
+    "update" : [
+      "acct:DavidBlue@hypothes.is"
+    ],
+    "delete" : [
+      "acct:DavidBlue@hypothes.is"
+    ]
+  },
+  "tags" : [
+    "Documentation",
+    "Power",
+    "UIKeyCommand",
+    "Accessibility"
+  ],
+  "flagged" : false,
+  "group" : "__world__",
+  "text" : "Believe it or not, finding this sentence, just now was actually a huge breakthrough in my [iPhone Keyboard Reference project](https:\/\/uikeycommand.com)... \n\nProud of you, bastards, for actually saying one sentence!",
+  "created" : "2022-06-09T12:39:11.390870+00:00",
+  "target" : [
+    {
+      "source" : "https:\/\/developer.apple.com\/design\/human-interface-guidelines\/inputs\/keyboards\/",
+      "selector" : [
+        {
+          "endContainer" : "\/main[1]\/section[1]\/div[2]\/div[1]\/div[2]\/p[25]\/em[1]",
+          "startOffset" : 0,
+          "startContainer" : "\/main[1]\/section[1]\/div[2]\/div[1]\/div[2]\/p[25]\/em[1]",
+          "type" : "RangeSelector",
+          "endOffset" : 53
+        },
+        {
+          "end" : 77314,
+          "type" : "TextPositionSelector",
+          "start" : 77261
+        },
+        {
+          "exact" : "No additional considerations for iOS, macOS, or tvOS.",
+          "type" : "TextQuoteSelector",
+          "prefix" : "left.\n\nPlatform considerations\n\n",
+          "suffix" : " Not supported in watchOS.\n\niPad"
+        }
+      ]
+    }
+  ],
+  "links" : {
+    "incontext" : "https:\/\/hyp.is\/KbElxOfxEeytN0NZsJelQA\/developer.apple.com\/design\/human-interface-guidelines\/inputs\/keyboards\/",
+    "html" : "https:\/\/hypothes.is\/a\/KbElxOfxEeytN0NZsJelQA",
+    "json" : "https:\/\/hypothes.is\/api\/annotations\/KbElxOfxEeytN0NZsJelQA"
+  },
+  "hidden" : false,
+  "user" : "acct:DavidBlue@hypothes.is",
+  "document" : {
+    "title" : [
+      "Keyboards - Inputs - Human Interface Guidelines - Design - Apple Developer"
+    ]
+  }
+}
+```
+[Hypothesis API-Fetch Annotation by ID](drafts://open?uuid=C85F43A2-2D87-4C21-9902-FB3D89AF8488)
+
+Tags:
+  api, snippets
