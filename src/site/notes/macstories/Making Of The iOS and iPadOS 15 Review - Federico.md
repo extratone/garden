@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/making-of-the-i-os-and-i-pad-os-15-review-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Making Of: The iOS and iPadOS 15 Review"
 
 *26-04-2022 07:41* 
