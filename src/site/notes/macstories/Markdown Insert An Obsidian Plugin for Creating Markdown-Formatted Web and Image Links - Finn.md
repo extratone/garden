@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/markdown-insert-an-obsidian-plugin-for-creating-markdown-formatted-web-and-image-links-finn/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Markdown Insert: An Obsidian Plugin for Creating Markdown-Formatted Web and Image Links"
 
 *26-04-2022 07:41* 
