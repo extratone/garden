@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/0-e9-aaecf-edbb-4-fd-4-b3-ba-2-cfc-55-d7-ba-30/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Speedy Frames
+tags: documentation, psalms, shortcuts, i
+davodtime: 09082022-105605
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/0E9AAECF-EDBB-4FD4-B3BA-2CFC55D7BA30.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=0E9AAECF-EDBB-4FD4-B3BA-2CFC55D7BA30
 ---
-
 [[Speedy Frames Shortcut Documentation|Speedy Frames Shortcut Documentation]]
 
 ![Speedy Frames Web Banner](https://i.snap.as/ZnCTpWtH.png)
