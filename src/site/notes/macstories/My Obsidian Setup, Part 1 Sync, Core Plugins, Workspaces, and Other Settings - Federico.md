@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/my-obsidian-setup-part-1-sync-core-plugins-workspaces-and-other-settings-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "My Obsidian Setup, Part 1: Sync, Core Plugins, Workspaces, and Other Settings"
 
 *26-04-2022 07:41* 
