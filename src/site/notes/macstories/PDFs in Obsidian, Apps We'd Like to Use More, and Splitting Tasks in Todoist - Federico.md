@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/pd-fs-in-obsidian-apps-we-d-like-to-use-more-and-splitting-tasks-in-todoist-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "PDFs in Obsidian, Apps We'd Like to Use More, and Splitting Tasks in Todoist"
 
 *26-04-2022 07:41* 
