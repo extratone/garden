@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/how-i-os-and-i-pad-os-15-improve-my-obsidian-note-taking-setup-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "How iOS and iPadOS 15 Improve My Obsidian Note-Taking Setup"
 
 *26-04-2022 07:41* 
