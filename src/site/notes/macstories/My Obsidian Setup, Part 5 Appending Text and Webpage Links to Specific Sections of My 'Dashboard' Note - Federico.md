@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/my-obsidian-setup-part-5-appending-text-and-webpage-links-to-specific-sections-of-my-dashboard-note-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "My Obsidian Setup, Part 5: Appending Text and Webpage Links to Specific Sections of My 'Dashboard' Note"
 
 *26-04-2022 07:41* 
