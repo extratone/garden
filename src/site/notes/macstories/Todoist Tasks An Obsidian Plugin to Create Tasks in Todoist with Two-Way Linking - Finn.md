@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/todoist-tasks-an-obsidian-plugin-to-create-tasks-in-todoist-with-two-way-linking-finn/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
+telegraph_page_url: https://telegra.ph/Todoist-Tasks-An-Obsidian-Plugin-to-Create-Tasks-in-Todoist-with-Two-Way-Linking---Finn-09-08
+telegraph_page_path: Todoist-Tasks-An-Obsidian-Plugin-to-Create-Tasks-in-Todoist-with-Two-Way-Linking---Finn-09-08
 ---
-
 # "Todoist Tasks: An Obsidian Plugin to Create Tasks in Todoist with Two-Way Linking"
 
 *26-04-2022 07:41* 
