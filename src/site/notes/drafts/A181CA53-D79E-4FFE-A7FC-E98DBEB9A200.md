@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/a181-ca-53-d79-e-4-ffe-a7-fc-e98-dbeb-9-a200/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Petrify Vanity Code Renders for The Psalms Repo/Colophon
+tags: git, style, dev, psalms
+davodtime: 09082022-105606
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/A181CA53-D79E-4FFE-A7FC-E98DBEB9A200.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=A181CA53-D79E-4FFE-A7FC-E98DBEB9A200
 ---
-
 - [Petrify.app Vanity Code Renders · Issue #288 · extratone/bilge](https://github.com/extratone/bilge/issues/288)
 
 ![Psalms Custom CSS Verminal 5](https://user-images.githubusercontent.com/43663476/146706508-2b156f79-e6b6-4e9f-94d0-327d1f6c8c05.png)
