@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/c54-b7-d48-643-a-4-dde-a3-cf-d07-eee-2-f9-ae-7-2/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Adam Overholtzer
+tags: dev, x, i, rolodex, index, reference, correspondence
+davodtime: 09082022-113736
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/C54B7D48-643A-4DDE-A3CF-D07EEE2F9AE7.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=C54B7D48-643A-4DDE-A3CF-D07EEE2F9AE7
 ---
-
 
 - [Cardhop](x-cardhop://show?id=contact:4FD2F5D1-FA7C-439F-9EEC-9F2893AB17FD&contact=Adam%20Overholtzer)
 
