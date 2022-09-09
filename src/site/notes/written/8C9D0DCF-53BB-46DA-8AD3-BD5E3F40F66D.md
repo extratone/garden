@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/8-c9-d0-dcf-53-bb-46-da-8-ad-3-bd-5-e3-f40-f66-d/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "My Obsidian Setup, Part 5: Appending Text and Webpage Links to Specific Sections of My 'Dashboard' Note" 
 
 In [Part 4 of my Obsidian setup series](https://club.macstories.net/posts/extension-284), I described how I’ve been using a single ‘Dashboard’ note to quickly capture all kinds of links, ideas, and bits of text to process at a later stage – sort of like an inbox for my thoughts. In the story, I also detailed how I configured the incredibly powerful [QuickAdd plugin](https://github.com/chhoumann/quickadd) with a menu that lets me easily append text or internal note links at the end of specific sections of my Dashboard note. I’ve been using this system for the past four months; being able to see at a glance what I’m working on or what’s on my mind for later has greatly improved how I can make sense of all the ideas I have.
