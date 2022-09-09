@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/9-c095-ccd-adea-49-f9-87-f4-d0-ffe-2-f59-c4-a/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # forelooker
 
 
