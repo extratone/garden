@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/30-things-you-can-do-in-mac-terminal/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # 30 things you can do in Mac Terminal
 ![](30%20things%20you%20can%20do%20in%20Mac%20Terminal/terminal-on-the-mac_thumb800.jpg)
 When launched Terminal provides a line interface that you can use to control parts of the macOS interface - essentially it gives you access to the UNIX features that lie beyond the macOS skin. Here we will be looking at some projects that you can try out in Terminal, using your new-found skills.
