@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/3-da-1729-e-699-f-40-bb-85-f7-07-ccbbbceafe/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: KittyJosh111 Shortcuts
+tags: curation, automation, rh, i, shortcuts, reference
+davodtime: 09082022-105555
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/3DA1729E-699F-40BB-85F7-07CCBBBCEAFE.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=3DA1729E-699F-40BB-85F7-07CCBBBCEAFE
 ---
-
 - [RoutineHub Profile Page](https://routinehub.co/user/Kittyjosh111)
 
 - [RoutineHub • System Bomber](https://routinehub.co/shortcut/7426/)
