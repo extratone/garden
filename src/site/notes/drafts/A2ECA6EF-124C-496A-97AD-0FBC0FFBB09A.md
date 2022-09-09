@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/a2-eca-6-ef-124-c-496-a-97-ad-0-fbc-0-ffbb-09-a/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Tumblr URL Scheme
+tags: cli, i, reference, x, gist, documentation
+davodtime: 09082022-105536
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/A2ECA6EF-124C-496A-97AD-0FBC0FFBB09A.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=A2ECA6EF-124C-496A-97AD-0FBC0FFBB09A
 ---
-
 - [Tumblr URL Scheme](https://stackoverflow.com/questions/13794925/tumblr-url-scheme)
 - [WTF](https://davidblue.wtf/drafts/A2ECA6EF-124C-496A-97AD-0FBC0FFBB09A.html)
 - [Gist](https://gist.github.com/3e0b5151ebc86e700e800fc6262e8e75)
