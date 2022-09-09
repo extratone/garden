@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/fe-5-f3-b54-b9-d6-48-ff-bbfd-bb-699-e380-c4-f/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Draft to Apple Note
+tags: js, configuration, actions, curation, documentation, rich, meta, shortcuts, notes, drafts
+davodtime: 09082022-105522
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/FE5F3B54-B9D6-48FF-BBFD-BB699E380C4F.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=FE5F3B54-B9D6-48FF-BBFD-BB699E380C4F
 ---
-
 Updated `08072022-120219`
 
 - [**Drafts Directory**](https://directory.getdrafts.com/a/2Bi)
