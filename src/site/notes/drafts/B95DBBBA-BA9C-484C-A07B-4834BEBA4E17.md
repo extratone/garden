@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/b95-dbbba-ba-9-c-484-c-a07-b-4834-beba-4-e17/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: eM Client as Primary Email Client
+tags: email, documentation, git, windows, configuration
+davodtime: 09082022-105605
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/B95DBBBA-BA9C-484C-A07B-4834BEBA4E17.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=B95DBBBA-BA9C-484C-A07B-4834BEBA4E17
 ---
-
 
 [emClient · Issue #12 · extratone/windows](https://github.com/extratone/windows/issues/12)
 
