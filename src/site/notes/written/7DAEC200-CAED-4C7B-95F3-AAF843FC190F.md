@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/7-daec-200-caed-4-c7-b-95-f3-aaf-843-fc-190-f/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
   AppleScript | Drafts Script Reference   
 
 Search 
