@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/29-a750-c3-dc-3-d-4-dfe-8-fce-0-e1-ebb-93-fff-9/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 001
 Contact Horn (mailto:horn@extratone.com)
 
