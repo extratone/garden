@@ -1,3 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/templates/template1/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: 
+davodtime: {{time:MMDDYYYY-HHmmss}}
+tags: test
+dg-publish: true
 ---
