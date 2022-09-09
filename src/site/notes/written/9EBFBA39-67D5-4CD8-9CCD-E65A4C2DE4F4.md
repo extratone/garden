@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/9-ebfba-39-67-d5-4-cd-8-9-ccd-e65-a4-c2-de-4-f4/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # On the Future of the Respected Audience
 `April 10, 2017`
 
