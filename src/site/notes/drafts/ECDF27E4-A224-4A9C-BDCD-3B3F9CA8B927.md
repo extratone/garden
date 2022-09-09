@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/ecdf-27-e4-a224-4-a9-c-bdcd-3-b3-f9-ca-8-b927/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: "Introducing Automation April: A Month-Long Community Event About Automation, Featuring Shortcuts, Interviews, Discord Workshops, and a Shortcut Contest"
+tags: shortcuts, email, discord, capture
+davodtime: 09082022-105548
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/ECDF27E4-A224-4A9C-BDCD-3B3F9CA8B927.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=ECDF27E4-A224-4A9C-BDCD-3B3F9CA8B927
 ---
-
 `Apr 1, 2022 at 10:00`
 ![Welcome to Automation April.](https://cdn.macstories.net/banner-1648761121075.png)
 Welcome to Automation April.
