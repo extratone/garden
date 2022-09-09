@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/b3-de-9-d99-aaea-4-ecc-a0-a4-6214192-dfb-0-b/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Drafts Beta Update - 32.5 (117)
+tags: cult, meta, documentation, drafts, i, beta
+davodtime: 09082022-105515
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/B3DE9D99-AAEA-4ECC-A0A4-6214192DFB0B.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=B3DE9D99-AAEA-4ECC-A0A4-6214192DFB0B
 ---
-
 Updated `08262022-124512`
 
 - [Slack](https://agiletortoise.slack.com/archives/C82A9NK0E/p1661531381672659)
