@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/adc-619-bc-71-e6-48-d2-a73-f-3-df-8-abf-16-dde/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: bemoan
+tags: vocabulary
+davodtime: 09082022-113735
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/ADC619BC-71E6-48D2-A73F-3DF8ABF16DDE.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=ADC619BC-71E6-48D2-A73F-3DF8ABF16DDE
 ---
-
 
 
 ## Verb
