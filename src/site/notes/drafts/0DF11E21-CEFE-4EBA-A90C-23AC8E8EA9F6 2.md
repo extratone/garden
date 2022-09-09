@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/0-df-11-e21-cefe-4-eba-a90-c-23-ac-8-e8-ea-9-f6-2/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: twspace-dl
+tags: audio, simplenote, snippets, twitter, social, documentation, reference, scrape
+davodtime: 09082022-113658
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/0DF11E21-CEFE-4EBA-A90C-23AC8E8EA9F6.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=0DF11E21-CEFE-4EBA-A90C-23AC8E8EA9F6
 ---
-
 Updated `08242022-003904`
 
 - [Drafts](drafts://open?uuid=CAABBB06-186C-437D-BC30-65844BDBEC2B)
