@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/bffa-01-b0-a8-db-4695-8-c5-f-ffd-62-e629-aaf/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Tot Guide
+tags: macos, birthday, documentation
+davodtime: 09082022-105601
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/BFFA01B0-A8DB-4695-8C5F-FFD62E629AAF.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=BFFA01B0-A8DB-4695-8C5F-FFD62E629AAF
 ---
-
 
 ## Make Tot your own.
 
