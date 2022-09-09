@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/4-be-7-be-82-1-e9-b-400-c-b913-ad-6-ffad-4-f5-de/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Drafts Things Action
+tags: configuration, js, curation, things, drafts, documentation, actions, meta, task
+davodtime: 09082022-105525
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/4BE7BE82-1E9B-400C-B913-AD6FFAD4F5DE.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=4BE7BE82-1E9B-400C-B913-AD6FFAD4F5DE
 ---
-
 Updated `07232022-142511`
 
 - [**Drafts Directory**](https://directory.getdrafts.com/a/2BJ)
@@ -21,7 +26,7 @@ Updated `07232022-142511`
 `⌥ ⌘ T`
 
 ```
-things:///add?title=Drafts Things Action&notes=[[thing]]&tags=[[thingstags]]&list-id=LMLw5mRdV3y7BWkuZUJKu6&heading=Arrival&creation-date=[[creation_date]]
+things:///add?title=Drafts Things Action&notes=[[thing|thing]]&tags=[[thingstags|thingstags]]&list-id=LMLw5mRdV3y7BWkuZUJKu6&heading=Arrival&creation-date=[[creation_date|creation_date]]
 ```
 
 ## Description
