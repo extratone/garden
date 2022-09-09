@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/a9-d5-bebf-844-c-4-a4-b-9-b2-b-c83-f0-d0-cc-4-ee/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: crufty
+tags: vocabulary
+davodtime: 09082022-113733
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/A9D5BEBF-844C-4A4B-9B2B-C83F0D0CC4EE.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=A9D5BEBF-844C-4A4B-9B2B-C83F0D0CC4EE
 ---
-
 
 
 *From LookUp*:
