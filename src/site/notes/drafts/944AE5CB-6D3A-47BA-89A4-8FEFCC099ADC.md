@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/944-ae-5-cb-6-d3-a-47-ba-89-a4-8-fefcc-099-adc/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: brusk
+tags: vocabulary
+davodtime: 09082022-113710
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/944AE5CB-6D3A-47BA-89A4-8FEFCC099ADC.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=944AE5CB-6D3A-47BA-89A4-8FEFCC099ADC
 ---
-
 
 
 ## Adjective
