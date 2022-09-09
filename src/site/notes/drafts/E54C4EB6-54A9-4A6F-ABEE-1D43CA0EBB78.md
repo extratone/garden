@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/e54-c4-eb-6-54-a9-4-a6-f-abee-1-d43-ca-0-ebb-78/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Writeas API Shortcuts Testing
+tags: shortcuts, writeas, test, api
+davodtime: 09082022-105540
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/E54C4EB6-54A9-4A6F-ABEE-1D43CA0EBB78.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=E54C4EB6-54A9-4A6F-ABEE-1D43CA0EBB78
 ---
-
 - [WTF](https://davidblue.wtf/drafts/E54C4EB6-54A9-4A6F-ABEE-1D43CA0EBB78.html)
 
 ## Test8
