@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/427-bda-4-e-8295-4-e85-bada-d5-faad-4-d6-cc-5/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: NeoCities Press
+tags: media, capture, archive, neocities, things
+davodtime: 09082022-113727
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/427BDA4E-8295-4E85-BADA-D5FAAD4D6CC5.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=427BDA4E-8295-4E85-BADA-D5FAAD4D6CC5
 ---
-
 Updated `07182022-084508`
 
 - [GitHub Issue](https://github.com/extratone/wtf/issues/4) 
