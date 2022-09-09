@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/23-ddc-541-b2-da-4-cb-5-bb-90-cd-7-ce-2-be-1-ca-3/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # interdict
 
 ![interdict LookUp](https://i.snap.as/9xgFsRK8.png)
