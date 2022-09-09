@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/7-be-4-cec-4-f0-ad-4-f5-b-a8-dc-ffa-66231-e932/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # Extratext
 
 - [Public Share URL](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb)
