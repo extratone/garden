@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/29-a750-c3-dc-3-d-4-dfe-8-fce-0-e1-ebb-93-fff-9/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: 001
+tags: legacy, email, extratone
+davodtime: 09082022-113746
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/29A750C3-DC3D-4DFE-8FCE-0E1EBB93FFF9.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=29A750C3-DC3D-4DFE-8FCE-0E1EBB93FFF9
 ---
-
 Contact Horn (mailto:horn@extratone.com)
 
 
