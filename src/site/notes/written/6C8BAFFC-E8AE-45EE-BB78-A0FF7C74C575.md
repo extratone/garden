@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/6-c8-baffc-e8-ae-45-ee-bb-78-a0-ff-7-c74-c575/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # Spy Kids 3 Spam (macOS) Shortcut Documentation
 
 ![Juni Warning](https://user-images.githubusercontent.com/43663476/149655618-67b3ac6a-50d6-4eb6-aeca-370eddef670f.png)
