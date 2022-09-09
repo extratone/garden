@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/f1-fedac-2-bcbd-4-ffd-b33-a-27-ce-03391-fcf/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Gluebyte’s RoutineHub Links
+tags: reference, shortcuts, i
+davodtime: 09082022-105557
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/F1FEDAC2-BCBD-4FFD-B33A-27CE03391FCF.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=F1FEDAC2-BCBD-4FFD-B33A-27CE03391FCF
 ---
-
 - [Gluebyte’s Profile](https://routinehub.co/user/gluebyte)
 
 - [RoutineHub • Instagram Download](https://routinehub.co/shortcut/7823/)
