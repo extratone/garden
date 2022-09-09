@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/17-e4-bd-75-a97-b-4-fde-a2-ba-9-aacc-85462-fa/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 ### Twitter Search: “laying down” smallcreature99
 
 - **@smallcreature99**: laying down ? oh yeah. Thats my shit [link](http://twitter.com/smallcreature99/status/1527855832804872192)
