@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/bcc-216-b2-f2-d3-4380-a0-c3-bfbb-2-aaae-5-f6/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Eugenics ([long lost] third drywall album)
+tags: dry, archive, legacy
+davodtime: 09082022-113748
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/BCC216B2-F2D3-4380-A0C3-BFBB2AAAE5F6.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=BCC216B2-F2D3-4380-A0C3-BFBB2AAAE5F6
 ---
-
 
 - [Eugenics (third drywall album)](simplenote://note/21f1e37e-84a7-4064-932e-18a36c9a5534)
 
