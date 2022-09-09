@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/ab-4-b1-ffd-2-fc-4-4-dfc-b073-b7-e6-aa-5-f4-e1-f/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: GitHub Fetch Action(s)
+tags: curation, configuration, documentation, actions, drafts, meta
+davodtime: 09082022-105535
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/AB4B1FFD-2FC4-4DFC-B073-B7E6AA5F4E1F.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=AB4B1FFD-2FC4-4DFC-B073-B7E6AA5F4E1F
 ---
-
 - [**Drafts Directory**](https://directory.getdrafts.com/)
 - [GitHub Issue](https://github.com/extratone/drafts/issues/63) 
 
