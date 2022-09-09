@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/obsidian-in-depth-core-plugins-part-2/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Obsidian In Depth: Core Plugins (Part 2)"
 
 ![](AppStories252.mp3)
