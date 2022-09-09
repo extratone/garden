@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/my-obsidian-setup-part-2-themes-mobile-quick-action-and-toolbar-and-third-party-plugins-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "My Obsidian Setup, Part 2: Themes, Mobile Quick Action and Toolbar, and Third-Party Plugins"
 
 *26-04-2022 07:41* 
