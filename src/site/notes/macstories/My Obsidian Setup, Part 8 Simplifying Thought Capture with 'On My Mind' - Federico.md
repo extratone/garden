@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/my-obsidian-setup-part-8-simplifying-thought-capture-with-on-my-mind-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "My Obsidian Setup, Part 8: Simplifying Thought Capture with 'On My Mind'"
 
 *26-04-2022 07:41* 
