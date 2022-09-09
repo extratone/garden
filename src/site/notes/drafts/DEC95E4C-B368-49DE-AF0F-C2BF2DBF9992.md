@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/dec-95-e4-c-b368-49-de-af-0-f-c2-bf-2-dbf-9992/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: 007
+tags: extratone, email, legacy
+davodtime: 09082022-113746
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/DEC95E4C-B368-49DE-AF0F-C2BF2DBF9992.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=DEC95E4C-B368-49DE-AF0F-C2BF2DBF9992
 ---
-
 Contact Horn (mailto: horn@extratone.com)
 Before we head West, we're setting our sights locally on the conflicts and triumphs of our native Columbia, Missouri.
 "Increasingly catholic."
