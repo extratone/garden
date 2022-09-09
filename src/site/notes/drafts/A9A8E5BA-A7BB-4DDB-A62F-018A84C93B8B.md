@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/a9-a8-e5-ba-a7-bb-4-ddb-a62-f-018-a84-c93-b8-b/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Attach to Process Write.as Theme
+tags: documentation, simplenote, as, snippets, theme, dev, reference, css
+davodtime: 09082022-105520
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/A9A8E5BA-A7BB-4DDB-A62F-018A84C93B8B.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=A9A8E5BA-A7BB-4DDB-A62F-018A84C93B8B
 ---
-
 Updated `08162022-132527`
 
 - [**Attach to Process Write.as Theme**](https://devblog.dinobansigan.com/attach-to-process-write-as-theme)
