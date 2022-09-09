@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/2-e8-e3-ba-0-4-f09-475-a-bdbd-ae-031-b4-bfa-9-d-2/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: David Blue's "Developer Bio"
+tags: documentation, index, git, reference
+davodtime: 09082022-113713
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/2E8E3BA0-4F09-475A-BDBD-AE031B4BFA9D.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=2E8E3BA0-4F09-475A-BDBD-AE031B4BFA9D
 ---
-
 Updated `08092022-233310`
 
 - [**GitHub**](https://github.com/extratone/latte)
