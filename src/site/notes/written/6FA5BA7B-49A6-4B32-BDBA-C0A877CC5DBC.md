@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/6-fa-5-ba-7-b-49-a6-4-b32-bdba-c0-a877-cc-5-dbc/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # phlegm
 
 
