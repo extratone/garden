@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/ded-78-e44-fcea-4-ea-1-8-cd-6-5-e635-f05-cfb-1/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Lost text, version issue?
+tags: forums, meta, correspondence, drafts, discourse, i, capture, dev
+davodtime: 09082022-105513
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/DED78E44-FCEA-4EA1-8CD6-5E635F05CFB1.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=DED78E44-FCEA-4EA1-8CD6-5E635F05CFB1
 ---
-
 Updated `09072022-151246`
 
 - [Lost text, version issue?](https://forums.getdrafts.com/t/lost-text-version-issue/13270)
