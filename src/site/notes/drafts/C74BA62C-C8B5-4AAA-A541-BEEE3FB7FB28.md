@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/c74-ba-62-c-c8-b5-4-aaa-a541-beee-3-fb-7-fb-28/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: 3.5.1 Brace Expansion - Bash Reference Manual
+tags: reference, documentation, cli
+davodtime: 09082022-105533
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/C74BA62C-C8B5-4AAA-A541-BEEE3FB7FB28.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=C74BA62C-C8B5-4AAA-A541-BEEE3FB7FB28
 ---
-
 
 Brace expansion is a mechanism by which arbitrary strings may be generated. This mechanism is similar to filename expansion (see Filename Expansion), but the filenames generated need not exist. Patterns to be brace expanded take the form of an optional preamble, followed by either a series of comma-separated strings or a sequence expression between a pair of braces, followed by an optional postscript. The preamble is prefixed to each string contained within the braces, and the postscript is then appended to each resulting string, expanding left to right.
 
