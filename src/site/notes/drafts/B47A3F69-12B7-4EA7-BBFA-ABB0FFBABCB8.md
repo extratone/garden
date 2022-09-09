@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/b47-a3-f69-12-b7-4-ea-7-bbfa-abb-0-ffbabcb-8/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Shortcuts x-callback URLs
+tags: shortcuts, documentation, x, data
+davodtime: 09082022-105559
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/B47A3F69-12B7-4EA7-BBFA-ABB0FFBABCB8.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=B47A3F69-12B7-4EA7-BBFA-ABB0FFBABCB8
 ---
-
 - [Dynamic vCard Template](shortcuts://x-callback-url/run-shortcut?name=Dynamic vCard Template)
 - [Simple Menu 1](shortcuts://x-callback-url/run-shortcut?name=Simple Menu 1)
 - [Set Auto-Lock](shortcuts://x-callback-url/run-shortcut?name=Set Auto-Lock)
