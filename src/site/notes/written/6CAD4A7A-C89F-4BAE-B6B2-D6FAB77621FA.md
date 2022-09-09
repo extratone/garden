@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/6-cad-4-a7-a-c89-f-4-bae-b6-b2-d6-fab-77621-fa/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 https://youtu.be/OqJn4wAhmFI
 
 # 1994 Dodge Caravan thoughts
