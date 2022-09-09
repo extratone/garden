@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/c73-f39-bf-dfad-4-fcb-99-fd-7214963-ed-0-cb/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Template Drafts Gist
+tags: 
+davodtime: 09082022-113719
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/C73F39BF-DFAD-4FCB-99FD-7214963ED0CB.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=C73F39BF-DFAD-4FCB-99FD-7214963ED0CB
 ---
-
 
 https://gist.github.com/f5097e818f63cc960abf5e63efd6d2ac
 
@@ -112,7 +117,7 @@ Updated `[[date|%m%d%Y-%H%M%S]]`
 
 ## Install
 # Custom Email Template<|>e
-[[clipboard]]
+[[clipboard|clipboard]]
 ---
 # Rolodex Template
 
@@ -561,7 +566,7 @@ This listing is for PLAIN TEXT editors only. If your app cannot edit and export 
 
 - [**URL**](https://raindrop.io/davidblue/)
 - [RSS](https://raindrop.io/collection/00000000/feed)
-- [WTF](https://davidblue.wtf/drafts/[[uuid]].html)
+- [WTF](https://davidblue.wtf/drafts/[[uuid|uuid]].html)
 
 ---
 
