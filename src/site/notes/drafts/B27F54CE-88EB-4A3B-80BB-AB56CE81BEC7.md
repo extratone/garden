@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/b27-f54-ce-88-eb-4-a3-b-80-bb-ab-56-ce-81-bec-7/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Pelvic Refresh
+tags: meta, images, youtube, video
+davodtime: 09082022-113709
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/B27F54CE-88EB-4A3B-80BB-AB56CE81BEC7.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=B27F54CE-88EB-4A3B-80BB-AB56CE81BEC7
 ---
-
 Updated `08122022-182336`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/)
