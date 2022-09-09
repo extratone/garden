@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/4-be-7-be-82-1-e9-b-400-c-b913-ad-6-ffad-4-f5-de/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # Drafts Things Action
 Updated `07232022-141721`
 
@@ -22,7 +22,7 @@ Updated `07232022-141721`
 `⌥ ⌘ T`
 
 ```
-things:///add?title=[[display_title]]&notes=[[thing]]&tags=[[thingstags]]&list-id=LMLw5mRdV3y7BWkuZUJKu6&heading=Arrival&creation-date=[[creation_date]]
+things:///add?title=[[display_title|display_title]]&notes=[[thing|thing]]&tags=[[thingstags|thingstags]]&list-id=LMLw5mRdV3y7BWkuZUJKu6&heading=Arrival&creation-date=[[creation_date|creation_date]]
 ```
 
 ## Description
