@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/an-obsidian-template-setup-and-apple-music-playlist-based-on-mac-stories-unwind-picks-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "An Obsidian Template Setup and Apple Music Playlist Based on MacStories Unwind Picks"
 
 *26-04-2022 07:41* 
