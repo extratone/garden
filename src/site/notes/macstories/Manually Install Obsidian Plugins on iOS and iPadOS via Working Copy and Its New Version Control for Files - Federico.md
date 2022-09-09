@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/manually-install-obsidian-plugins-on-i-os-and-i-pad-os-via-working-copy-and-its-new-version-control-for-files-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Manually Install Obsidian Plugins on iOS and iPadOS via Working Copy and Its New Version Control for Files"
 
 *26-04-2022 07:41* 
