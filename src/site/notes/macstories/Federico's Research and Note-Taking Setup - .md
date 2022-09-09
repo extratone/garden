@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/federico-s-research-and-note-taking-setup/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Federico's Research and Note-Taking Setup"
 
 *26-04-2022 07:41* 
