@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/d7135-fd-0-c2-c5-4-ab-4-b0-dd-daae-7-e70-ba-64-2/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Drafts Autocompletes
+tags: documentation, git, bookmarked, drafts
+davodtime: 09082022-113707
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=D7135FD0-C2C5-4AB4-B0DD-DAAE7E70BA64
 ---
-
 Updated `08162022-123908`
 
 - [GitHub Issue](https://github.com/extratone/drafts/issues/31)
@@ -32,12 +37,12 @@ Here’s a wee [demo video](https://user-images.githubusercontent.com/43663476/1
 
 - [**wtf**](https://raw.githubusercontent.com/extratone/drafts/main/snippets/wtf.txt)
 ```
-https://davidblue.wtf/drafts/[[uuid]].html
+https://davidblue.wtf/drafts/[[uuid|uuid]].html
 ```
 
 - [**x**](https://raw.githubusercontent.com/extratone/drafts/main/snippets/x.txt)
 ```
-[[[display_title]]]([[draft_open_url]])
+[[[display_title|[display_title]]]([[draft_open_url|draft_open_url]])
 ```
 
 - [**latlong**](https://raw.githubusercontent.com/extratone/drafts/main/snippets/latlong.txt)
@@ -52,18 +57,18 @@ https://davidblue.wtf/drafts/[[uuid]].html
 
 - [**code**](https://raw.githubusercontent.com/extratone/drafts/main/snippets/code.txt)
 ```
-[[clipboard]]
+[[clipboard|clipboard]]
 ```
 
 - [**snap**](https://raw.githubusercontent.com/extratone/drafts/main/snippets/snap.txt)
 ```
-[[clipboard]]
+[[clipboard|clipboard]]
 ```
 
 - [**video**](https://raw.githubusercontent.com/extratone/drafts/main/snippets/video.txt)
 ```
 <video controls>
-  <source src="[[clipboard]]">
+  <source src="[[clipboard|clipboard]]">
 </video>
 ```
 
