@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/e0-c10-c41-decf-4-afd-be-6-b-de-4-acd-6-aba-75/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Move your passwords from Chrome to 1Password
+tags: capture, i, documentation
+davodtime: 09082022-105527
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/E0C10C41-DECF-4AFD-BE6B-DE4ACD6ABA75.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=E0C10C41-DECF-4AFD-BE6B-DE4ACD6ABA75
 ---
-
 
 
 - [Bear](bear://x-callback-url/open-note?id=BDA8F327-5A2B-4C51-9124-3E321E028C14-4569-0000007F5F2C82CD)
