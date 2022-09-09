@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/app-debuts-john/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "App Debuts"
 
 *26-04-2022 07:41* 
