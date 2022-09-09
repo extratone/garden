@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/a-day-planner-shortcut-twitter-and-you-tube-obsidian-embeds-and-a-wallpaper-switcher-john/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "A Day Planner Shortcut, Twitter and YouTube Obsidian Embeds, and a Wallpaper Switcher"
 
 *26-04-2022 07:41* 
