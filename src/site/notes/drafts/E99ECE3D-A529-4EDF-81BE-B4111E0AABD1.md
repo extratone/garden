@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/e99-ece-3-d-a529-4-edf-81-be-b4111-e0-aabd-1/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Ulysses Release Notes ArchiveRubyGems.org | your community gem host
+tags: dev, birthday, documentation
+davodtime: 09082022-105534
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/E99ECE3D-A529-4EDF-81BE-B4111E0AABD1.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=E99ECE3D-A529-4EDF-81BE-B4111E0AABD1
 ---
-
 https://rubygems.org/
 
 Edit profile | RubyGems.org | your community gem host
