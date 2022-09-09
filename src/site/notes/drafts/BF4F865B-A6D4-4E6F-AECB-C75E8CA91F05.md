@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/bf-4-f865-b-a6-d4-4-e6-f-aecb-c75-e8-ca-91-f05/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: "Things 3.4 Brings Powerful New Automation Features and App Integrations"
+tags: capture
+davodtime: 09082022-113719
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/BF4F865B-A6D4-4E6F-AECB-C75E8CA91F05.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=BF4F865B-A6D4-4E6F-AECB-C75E8CA91F05
 ---
-
 `Feb 21, 2018 at 09:03`[[callback_result|callback_result]]
 ![](https://2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2018-02-20-22-13-35.jpeg)
 
