@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/ba-02-abdf-bfe-3-4-cac-aa-8-b-8-dc-7-a1-f00295-2/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: https://github.com/extratone/latte/generate
+tags: correspondence, debug, local, email, bookmarked
+davodtime: 09082022-113730
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/BA02ABDF-BFE3-4CAC-AA8B-8DC7A1F00295.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=BA02ABDF-BFE3-4CAC-AA8B-8DC7A1F00295
 ---
-
 things:///show?id=DwDKypfg1uvjfSQuZMku6c
 
 things:///show?id=HMoyjZ26c7frpgnNBFoYMW
