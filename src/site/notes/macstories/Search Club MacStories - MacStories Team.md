@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/search-club-mac-stories-mac-stories-team/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Search Club MacStories"
 
 *26-04-2022 07:41* 
