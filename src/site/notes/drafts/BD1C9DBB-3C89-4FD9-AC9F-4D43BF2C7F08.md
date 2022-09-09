@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/bd-1-c9-dbb-3-c89-4-fd-9-ac-9-f-4-d43-bf-2-c7-f08/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Snap.as/Write.as API
+tags: reference, writeas, snippets, documentation, cli
+davodtime: 09082022-105545
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/BD1C9DBB-3C89-4FD9-AC9F-4D43BF2C7F08.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=BD1C9DBB-3C89-4FD9-AC9F-4D43BF2C7F08
 ---
-
 
 curl "https://snap.as/api/photos/upload" \
   -H "Authorization: 00000000-0000-0000-0000-000000000000" \
