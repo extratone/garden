@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/a-prepend-to-dashboard-shortcut-a-new-way-to-get-matter-s-api-token-and-an-advanced-template-script-for-obsidian-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "A Prepend to Dashboard Shortcut, A New Way to Get Matter's API Token, and an Advanced Template Script for Obsidian"
 
 *26-04-2022 07:41* 
