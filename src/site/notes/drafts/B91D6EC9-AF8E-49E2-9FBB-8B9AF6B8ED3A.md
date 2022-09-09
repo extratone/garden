@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/b91-d6-ec-9-af-8-e-49-e2-9-fbb-8-b9-af-6-b8-ed-3-a/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: gyrate
+tags: vocabulary
+davodtime: 09082022-113700
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/B91D6EC9-AF8E-49E2-9FBB-8B9AF6B8ED3A.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=B91D6EC9-AF8E-49E2-9FBB-8B9AF6B8ED3A
 ---
-
 
 ![gyrate LookUp](https://i.snap.as/T2XCTZDY.png)
 
