@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/my-favorite-obsidian-plugins-for-automating-the-management-of-notes-john/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "My Favorite Obsidian Plugins for Automating the Management of Notes"
 
 *26-04-2022 07:41* 
