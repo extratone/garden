@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/over-clip-a-system-for-saving-podcast-clips-in-obsidian-as-text-john/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "OverClip: A System for Saving Podcast Clips in Obsidian as Text"
 
 *26-04-2022 07:41* 
