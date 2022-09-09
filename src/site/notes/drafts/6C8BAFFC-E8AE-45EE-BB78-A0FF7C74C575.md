@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/6-c8-baffc-e8-ae-45-ee-bb-78-a0-ff-7-c74-c575/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Spy Kids 3 Spam (macOS) Shortcut Documentation
+tags: i, documentation, shortcuts, birthday
+davodtime: 09082022-105601
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/6C8BAFFC-E8AE-45EE-BB78-A0FF7C74C575.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=6C8BAFFC-E8AE-45EE-BB78-A0FF7C74C575
 ---
-
 
 ![Juni Warning](https://user-images.githubusercontent.com/43663476/149655618-67b3ac6a-50d6-4eb6-aeca-370eddef670f.png)
 
