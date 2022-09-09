@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/47-cbc-4-ce-1-fdb-4-a8-c-875-b-96-f6-ef-9-e3-d1-e/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # Untitled Note
 
 `legacy`
