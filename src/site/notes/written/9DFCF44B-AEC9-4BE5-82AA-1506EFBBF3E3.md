@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/9-dfcf-44-b-aec-9-4-be-5-82-aa-1506-efbbf-3-e3/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # Circling Back to Tweetbot 6.3
 
 ![Harvest Theme - Tweetbot 6.3](https://i.snap.as/3Q0YFS3h.png)
