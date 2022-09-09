@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/aef-5-e05-e-2-b80-4-fca-addb-55-f2-afb-555-e6/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Bear for iOS Keyboard Shortcuts
+tags: documentation, bookmarked, keys
+davodtime: 09082022-105553
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/AEF5E05E-2B80-4FCA-ADDB-55F2AFB555E6.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=AEF5E05E-2B80-4FCA-ADDB-55F2AFB555E6
 ---
-
 * `⌥⌘1` , `⌥⌘2`, `⌥⌘3` - Headings
 * `⌥⌘S` - Line separator
 
