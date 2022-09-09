@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/export-markdown-with-embeds-an-obsidian-plugin-to-compile-documents-with-embedded-notes-finn/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Export Markdown with Embeds: An Obsidian Plugin to Compile Documents with Embedded Notes"
 
 *26-04-2022 07:41* 
