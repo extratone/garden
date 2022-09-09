@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/obsidian-in-depth-the-basics-part-1/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Obsidian In Depth: The Basics (Part 1)"
 
 ![](AppStories251.mp3)
