@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/7-daec-200-caed-4-c7-b-95-f3-aaf-843-fc-190-f/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: AppleScript | Drafts Script Reference
+tags: 
+davodtime: 09082022-113732
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/7DAEC200-CAED-4C7B-95F3-AAF843FC190F.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=7DAEC200-CAED-4C7B-95F3-AAF843FC190F
 ---
-
 
 Search 
 
