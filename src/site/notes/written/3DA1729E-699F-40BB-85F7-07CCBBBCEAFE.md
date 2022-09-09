@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/3-da-1729-e-699-f-40-bb-85-f7-07-ccbbbceafe/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # KittyJosh111 Shortcuts
 - [RoutineHub Profile Page](https://routinehub.co/user/Kittyjosh111)
 
