@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/a3-b7-cf-75-6-def-4-a3-a-ad-95-ec-7-eeba-752-bc-2/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: Workflow Changelog Archive
+tags: shortcuts, i, archive, shs
+davodtime: 09082022-113658
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/A3B7CF75-6DEF-4A3A-AD95-EC7EEBA752BC.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=A3B7CF75-6DEF-4A3A-AD95-EC7EEBA752BC
 ---
-
 Updated `08232022-231534`
 
 - [Original](https://workflow.is/whatsnew)
