@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/my-obsidian-setup-part-3-my-dashboard-note-for-quick-links-todoist-tasks-saving-ideas-and-keeping-track-of-current-projects-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "My Obsidian Setup, Part 3: My 'Dashboard' Note for Quick Links, Todoist Tasks, Saving Ideas, and Keeping Track of Current Projects"
 
 *26-04-2022 07:41* 
