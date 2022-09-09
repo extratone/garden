@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/95-ca-98-aa-adef-4627-bfdf-7-c3-bc-72-f888-c/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: All Template Tags
+tags: meta, drafts, dev, actions
+davodtime: 09082022-105559
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/95CA98AA-ADEF-4627-BFDF-7C3BC72F888C.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=95CA98AA-ADEF-4627-BFDF-7C3BC72F888C
 ---
-
 All Template tags from [Templates](https://docs.getdrafts.com/docs/actions/templates) | Drafts Directory.
 # All Template Tags
 All Template tags from [Templates](https://docs.getdrafts.com/docs/actions/templates) | Drafts Directory.
