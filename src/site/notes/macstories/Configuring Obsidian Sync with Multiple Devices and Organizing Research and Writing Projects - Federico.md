@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/configuring-obsidian-sync-with-multiple-devices-and-organizing-research-and-writing-projects-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Configuring Obsidian Sync with Multiple Devices and Organizing Research and Writing Projects"
 
 *26-04-2022 07:41* 
