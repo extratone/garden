@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/written/4-c4-d7-c2-a-cb-9-e-4-f5-b-95-ec-fa-12-f52-eeed-1/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 *|MC_PREVIEW_TEXT|*
 
 Essential curiosities from us and our favorites.
