@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/an-update-to-save-you-tube-link-a-technique-for-updating-obsidian-yaml-with-a-single-hotkey-and-an-air-buddy-shortcut-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "An Update to Save YouTube Link, a Technique for Updating Obsidian YAML with a Single Hotkey, and an AirBuddy Shortcut"
 
 *26-04-2022 07:41* 
