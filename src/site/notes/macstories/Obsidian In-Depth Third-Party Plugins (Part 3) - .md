@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/obsidian-in-depth-third-party-plugins-part-3/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Obsidian In-Depth: Third-Party Plugins (Part 3)"
 
 ![](AppStories255.mp3)
