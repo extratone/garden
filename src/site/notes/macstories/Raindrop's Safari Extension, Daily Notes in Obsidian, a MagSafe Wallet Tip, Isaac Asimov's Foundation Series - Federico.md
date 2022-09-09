@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/macstories/raindrop-s-safari-extension-daily-notes-in-obsidian-a-mag-safe-wallet-tip-isaac-asimov-s-foundation-series-federico/","dgHomeLink":true,"dgPassFrontmatter":false}
+share: true
+dg-publish: true
 ---
-
 # "Raindrop's Safari Extension, Daily Notes in Obsidian, a MagSafe Wallet Tip, Isaac Asimov's Foundation Series"
 
 *26-04-2022 07:41* 
