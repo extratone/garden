@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/d5-ee-4-b6-f-9-bef-4-dc-4-aed-5-9-a5-d41-a30-fc-0/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: WEDDING SPEEDRUN
+tags: friends, anecdotes, anecdote, spectacle, wtf, legacy, extratone
+davodtime: 09082022-113706
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/D5EE4B6F-9BEF-4DC4-AED5-9A5D41A30FC0.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=D5EE4B6F-9BEF-4DC4-AED5-9A5D41A30FC0
 ---
-
 
 - [Tweet](https://twitter.com/NeoYokel/status/1544451969296785409)
 - [WTF](https://davidblue.wtf/drafts/D5EE4B6F-9BEF-4DC4-AED5-9A5D41A30FC0.html)
