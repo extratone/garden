@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/df-1-a1-ca-0-5-afc-40-b2-b549-d2-c91-cad-4-ea-9/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: "Use 1Password CLI to Create Items | 1Password Developer Documentation"
+tags: capture
+davodtime: 09082022-113721
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/DF1A1CA0-5AFC-40B2-B549-D2C91CAD4EA9.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=DF1A1CA0-5AFC-40B2-B549-D2C91CAD4EA9
 ---
-
 ``
 *Learn how to use 1Password CLI to create and retrieve items.*
 
