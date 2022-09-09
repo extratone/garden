@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/drafts/23-ddc-541-b2-da-4-cb-5-bb-90-cd-7-ce-2-be-1-ca-3/","dgHomeLink":true,"dgPassFrontmatter":false}
+title: interdict
+tags: vocabulary
+davodtime: 09082022-113721
+local: shareddocuments:///private/var/mobile/Library/Mobile%20Documents/iCloud~md~obsidian/Documents/OBSHIDDIAN/drafts/23DDC541-B2DA-4CB5-BB90-CD7CE2BE1CA3.md
+dg-publish: true
+share: true
+draft: drafts://open?uuid=23DDC541-B2DA-4CB5-BB90-CD7CE2BE1CA3
 ---
-
 
 ![interdict LookUp](https://i.snap.as/9xgFsRK8.png)
 
