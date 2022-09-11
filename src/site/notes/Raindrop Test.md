@@ -1,7 +1,7 @@
 ---
-dg-home: true
-dg-publish: true
+{"dg-publish":true,"permalink":"/raindrop-test/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # Obsidian Raindrop Plugin
 This plugin allows for basic integration with [Raindrop.io](https://raindrop.io), a bookmarking service and [Obsidian](https://obsidian.md).
 
