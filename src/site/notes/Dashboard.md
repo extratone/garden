@@ -34,12 +34,13 @@ https://gist.github.com/29887eae7eadac577cc148080ad23dda
 
 <iframe src="https://gist.github.com/extratone/b9ec4e0f125ed42c3270a1b95e9d4357"></iframe>
 
-
+```raindrop
+collection: 0
+format: table
+sort: date
+```
 
 ---
-## BRAT Log
-
-![BRAT-log](BRAT-log.md)
 
 ## Changelog
 
@@ -55,3 +56,7 @@ sort: date
 
 ---
 <iframe src="https://onedrive.live.com/embed?cid=C9B856386AE1BED0&resid=C9B856386AE1BED0%21382&authkey=AEZzvc3qrx-iUOo" width="165" height="128" frameborder="0" scrolling="no"></iframe>
+
+## BRAT Log
+
+![BRAT-log](BRAT-log.md)
