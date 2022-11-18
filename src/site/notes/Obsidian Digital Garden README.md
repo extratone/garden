@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian-digital-garden-readme/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/obsidian-digital-garden-readme/","tags":"gardenEntry"}
 ---
 
 ```toc
@@ -40,7 +40,7 @@ dg-publish: true
 8. Go to your site's URL which you should find on [Netlify](https://app.netlify.com). If nothing shows up yet, wait a minute and refresh. Your note should now appear.
 
 Congratulations, you now have your own digital garden, hosted free of charge! 
-You can now start adding links as you usually would in Obisidan, with double square brackets like this: [[Some Other Note|Some Other Note]]) to the note that you just published. You can also link to a specific header by using the syntax [[Some Other Note#A Header]]. Remember to also publish the notes your are linking to as this will not happen automatically. This is by design. You are always in control of what notes you actually want to publish. If you did not publish a linked note, the link will simply lead to a site telling the user that this note does not exist. 
+You can now start adding links as you usually would in Obisidan, with double square brackets like this: [[Some Other Note\|Some Other Note]]) to the note that you just published. You can also link to a specific header by using the syntax [[Some Other Note#A Header]]. Remember to also publish the notes your are linking to as this will not happen automatically. This is by design. You are always in control of what notes you actually want to publish. If you did not publish a linked note, the link will simply lead to a site telling the user that this note does not exist. 
 
 ![new-note-demo](https://raw.githubusercontent.com/oleeskild/obsidian-digital-garden/main/img/new-note-demo.gif)
 
@@ -145,31 +145,31 @@ Some people have requested functionality for publishing all notes in a given fol
 ### Transclusion
 By default, transclusion of other documents just renders the content as is. If you want to also include a heading on top of the transclusion you can do so by using the pipe character:
 ```
-![[Some Other Note|Heading]]
+![[Some Other Note\|Heading]]
 ```
 
 This will add a h1 header with the value "Heading" at the start of your transclusion.
 
 If you want the header to be equal to the title of the transcluded document, you can use this custom syntax:
 ```
-![[Some Other Note|{{title}}]]
+![[Some Other Note\|{{title}}]]
 ```
 This will replace the heading with the title of the transcluded document when the note is published.
 
 You can also use the title syntax inside other text:
 ```
-![[Some Other Note|This is a {{title}}]]
+![[Some Other Note\|This is a {{title}}]]
 ```
 
 #### Specifying heading level
 You may also specify what heading level you want your transclusion to have. If you want the header to be a h2, you can use this syntax:
 ```
-![[Some Other Note|##Heading]]
+![[Some Other Note\|##Heading]]
 ```
 
 h4 would look like this:
 ```
-![[Some Other Note|####Heading]]
+![[Some Other Note\|####Heading]]
 ```
 
 #### Default behaviour
